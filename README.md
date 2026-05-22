@@ -56,7 +56,7 @@ Embedded Systems • PCB Design • Robotics • IoT • Cyber Security
 
 <br>
 
-<img align="right" alt="hardware" width="320" src="https://media.tenor.com/l75E5Qwzr7sAAAAC/electronics-circuit.gif">
+<img align="right" alt="hardware" width="320" src="https://github.com/VK-Innovate/VK-Innovate/blob/main/hardware.gif">
 
 ### ⚡ Hardware Platforms
 - ESP32
