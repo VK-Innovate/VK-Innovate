@@ -9,9 +9,8 @@ Embedded Systems • PCB Design • AI App Development • IoT • Cyber Securit
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;PCB+Designer+%7C+EasyEDA;Flutter+%7C+Supabase+Developer;AI App Development+%7C+IoT+Innovator;Building+Futuristic+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;PCB+Designer+%7C+EasyEDA;Flutter+%7C+Supabase+Developer;AI+App+%26+IoT+Developer;Building+Futuristic+Technologies"/>
 </p>
-
 ---
 
 # 👨‍💻 About Me
