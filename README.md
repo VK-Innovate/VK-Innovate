@@ -5,7 +5,7 @@
 <h1 align="center">⚡ VK INNOVATE ⚡</h1>
 
 <h3 align="center">
-Embedded Systems • PCB Design • AI App • IoT • Cyber Security
+Embedded Systems • PCB Design • AI App Development • IoT • Cyber Security
 </h3>
 
 <p align="center">
