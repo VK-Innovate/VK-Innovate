@@ -34,7 +34,6 @@ Embedded Systems • PCB Design • Robotics • IoT • Cyber Security
 ### ⚡ Engineering Domains
 - Embedded Systems
 - PCB Design
-- Robotics & Automation
 - IoT Development
 - Cyber Security
 - Innovation & Development (I&D)
@@ -49,7 +48,7 @@ Embedded Systems • PCB Design • Robotics • IoT • Cyber Security
 - C Programming
 - Python
 - Arduino IDE
-- Flutter Development
+- AI based App development 
 - Supabase Backend
 
 ---
@@ -76,7 +75,6 @@ Embedded Systems • PCB Design • Robotics • IoT • Cyber Security
 ### ⚡ Current Focus
 - QSC App Development
 - Smart IoT Systems
-- Robotics Projects
 - PCB System Design
 - Embedded Security Systems
 - AI Integrated Embedded Solutions
@@ -94,7 +92,7 @@ Embedded Systems • PCB Design • Robotics • IoT • Cyber Security
 ⚡ SYSTEM INITIALIZED ⚡
 EMBEDDED CORE : ACTIVE
 IOT NETWORK   : CONNECTED
-ROBOTICS LAB  : ONLINE
+AI app dev    : AcCTIVE 
 ```
 
 </div>
@@ -201,7 +199,6 @@ ROBOTICS LAB  : ONLINE
 + Embedded Core       : ONLINE
 + ESP32 Systems       : ACTIVE
 + STM32 Development   : RUNNING
-+ Robotics Engine     : ENABLED
 + IoT Network         : CONNECTED
 + PCB Design Lab      : OPERATIONAL
 + Innovation Engine   : READY
